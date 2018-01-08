@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget Version="1" Comment="New Batch Target" Guid="57bedc26-83af-438e-a309-c3ca29a34a59">
+    <Targets>
+        <Target Icon="System.Drawing.Bitmap" Name="HTML5" Type="HTML5" Build="true" LastBuilt="2018-01-08T17:40:53.6861600+01:00" />
+        <Target Icon="System.Drawing.Bitmap" Name="NewTarget" Type="PDF" Build="true" LastBuilt="2018-01-08T17:51:18.0775051+01:00" />
+    </Targets>
+</CatapultBatchTarget>
